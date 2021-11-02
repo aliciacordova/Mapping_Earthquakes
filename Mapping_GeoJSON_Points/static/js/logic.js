@@ -1,4 +1,4 @@
-// Add console.log to check to see if our code is working..
+// Add console.log to check to see if our code is working.
 console.log("working");
 
 // Create the map object with center at the San Francisco airport.
@@ -83,7 +83,7 @@ L.control.layers(baseMaps).addTo(map);
 
 
 // Accessing the airport GeoJSON URL
-let airportData = "https://github.com/aliciacordova/Mapping_Earthquakes/blob/main/majorAirports.json";
+let airportData = "https://raw.githubusercontent.com/aliciacordova/Mapping_Earthquakes/main/majorAirports.json";
 
 
 // Grabbing our GeoJSON data.
