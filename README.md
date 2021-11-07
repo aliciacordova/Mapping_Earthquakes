@@ -1,7 +1,5 @@
 # Mapping_Earthquakes
 
-Link to Mapping_Earthquakes webpage https://aliciacordova.github.io/Earthquake_Challenge
-
 ## Deliverable 1: Add Tectonic Plate Data
 
 ![M13_D#1_TECTONIC_PLATE](https://user-images.githubusercontent.com/87447639/140649023-42262331-6c8e-4915-a385-6b9dd9b03ff8.PNG)
@@ -12,6 +10,6 @@ Link to Mapping_Earthquakes webpage https://aliciacordova.github.io/Earthquake_C
 
 ## Deliverable 3: Add an Additional Map
 
-![M13_D#3_RUBRIC](https://user-images.githubusercontent.com/87447639/140649028-002bfa87-7348-42d7-907c-56abab17166b.PNG)
+![M13_D#3_RUBRIC](https://user-images.githubusercontent.com/87447639/140649915-54d256a2-9902-40fc-9dc5-a674f09b9a1b.PNG)
 
 
